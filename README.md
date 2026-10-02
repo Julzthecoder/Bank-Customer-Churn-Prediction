@@ -151,11 +151,11 @@ notebooks/bank_customer_churn_prediction_clean.ipynb
 
 ### Model Comparison
 
-![Model comparison](images/model_comparison_roc_auc.png)
+![Model comparison](model_comparison_roc_auc.png)
 
 ### Confusion Matrix
 
-![Confusion matrix](images/confusion_matrix.png)
+![Confusion matrix](confusion_matrix.png)
 
 ## Skills Demonstrated
 
